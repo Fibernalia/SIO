@@ -1,2 +1,5 @@
 # SIO
-SIO - Sistemes d'Informació per a les Organitzacions, FIB - Facultad de Informática de Barcelona
+Camila Bisio Bouchacourt de Pablo
+Daniel García Romero
+
+Notas: 9, 9.5, 10
